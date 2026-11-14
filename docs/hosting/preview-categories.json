@@ -1,0 +1,5 @@
+[
+  {"slug":"dining","title":"Food & dining","headline":"Good food. Better company.","description":"Great meals and new places to explore.","image":"/assets/dining.png","published":true,"order":1},
+  {"slug":"shopping","title":"Shopping & lifestyle","headline":"A little joy in the everyday.","description":"Discover brands and products you enjoy.","image":"/assets/shopping.png","published":true,"order":2},
+  {"slug":"experiences","title":"Fun & experiences","headline":"More plans. More memories.","description":"Entertainment, activities, and shared adventures.","image":"/assets/cinema.png","published":true,"order":3}
+]

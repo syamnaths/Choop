@@ -1,0 +1,2 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {filterOffers} from '../src/catalog-filters.js';
+test('category selection narrows offers without changing source data',()=>{const offers=[{slug:'a',categorySlug:'dining'},{slug:'b',categorySlug:'shopping'}];assert.deepEqual(filterOffers(offers,''),offers);assert.deepEqual(filterOffers(offers,'shopping'),[offers[1]]);assert.deepEqual(filterOffers(offers,'unknown'),[]);assert.equal(offers.length,2);assert.deepEqual(filterOffers(null,''),[]);});

@@ -1,0 +1,5 @@
+[
+  {"slug":"example-cafe-treat","title":"A café catch-up","categorySlug":"dining","description":"An illustrative offer for a coffee and a little something sweet.","image":"/assets/cafe-portrait.png","discountPercent":20,"merchant":{"name":"Example café"},"terms":["Illustrative offer only. No coupon is available."],"example":true,"published":true},
+  {"slug":"example-style-deal","title":"A little wardrobe refresh","categorySlug":"shopping","description":"An illustrative offer for everyday styles and accessories.","image":"/assets/shopping.png","discountPercent":30,"merchant":{"name":"Example boutique"},"terms":["Illustrative offer only. No coupon is available."],"example":true,"published":true},
+  {"slug":"example-weekend","title":"Make a day of it","categorySlug":"experiences","description":"An illustrative offer for a shared outing.","image":"/assets/cinema.png","discountPercent":40,"merchant":{"name":"Example venue"},"terms":["Illustrative offer only. No coupon is available."],"example":true,"published":true}
+]

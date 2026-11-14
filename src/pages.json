@@ -1,0 +1,329 @@
+{
+  "explore": [
+    "Explore deals",
+    "Find something good around the corner.",
+    "Discover the kinds of places and experiences CHOOP hopes to bring together. These are concept examples, not live offers.",
+    "dining.png",
+    [
+      [
+        "Food & dining",
+        "A good meal is always worth sharing.",
+        "dining.html"
+      ],
+      [
+        "Shopping & lifestyle",
+        "Find a little something for your everyday.",
+        "shopping.html"
+      ],
+      [
+        "Fun & experiences",
+        "Make room for more memorable plans.",
+        "experiences.html"
+      ]
+    ]
+  ],
+  "categories": [
+    "Explore categories",
+    "A little something for every kind of day.",
+    "Explore the types of offers envisioned for CHOOP.",
+    "shopping.png",
+    [
+      [
+        "Food & dining",
+        "New places and good meals.",
+        "dining.html"
+      ],
+      [
+        "Shopping & lifestyle",
+        "Everyday finds and little treats.",
+        "shopping.html"
+      ],
+      [
+        "Fun & experiences",
+        "Activities worth sharing.",
+        "experiences.html"
+      ]
+    ]
+  ],
+  "dining": [
+    "Food & dining",
+    "Good food. Better company.",
+    "From a coffee catch-up to a meal with friends, discover the kind of dining experiences CHOOP hopes to bring closer.",
+    "dining.png",
+    [
+      [
+        "Cafe Treat",
+        "An illustrative 20% offer, not available to claim.",
+        "cafe-treat.html"
+      ]
+    ]
+  ],
+  "shopping": [
+    "Shopping & lifestyle",
+    "A little joy in the everyday.",
+    "Explore a concept for discovering offers on the products and places you enjoy.",
+    "shopping.png",
+    [
+      [
+        "Style Deal",
+        "An illustrative 30% offer, not available to claim.",
+        "style-deal.html"
+      ]
+    ]
+  ],
+  "experiences": [
+    "Fun & experiences",
+    "More plans. More memories.",
+    "From movie nights to spontaneous outings, imagine more ways to enjoy time together.",
+    "cinema.png",
+    [
+      [
+        "Weekend Special",
+        "An illustrative 40% offer, not available to claim.",
+        "weekend-special.html"
+      ]
+    ]
+  ],
+  "how-it-works": [
+    "How it works",
+    "Your savings. Your way.",
+    "CHOOP is being imagined as a simple way to discover, save, share, and enjoy offers. The details are still being defined.",
+    "friends-cafe.png",
+    [
+      [
+        "01 · Discover",
+        "Explore nearby offers and find something that interests you.",
+        null
+      ],
+      [
+        "02 · Claim",
+        "Save an offer you love for later.",
+        null
+      ],
+      [
+        "03 · Share",
+        "Bring friends into the experience.",
+        null
+      ],
+      [
+        "04 · Redeem",
+        "Enjoy the offer at the participating place.",
+        null
+      ]
+    ]
+  ],
+  "business": [
+    "For businesses",
+    "Make your place someone’s new favorite.",
+    "CHOOP is exploring how local businesses could connect with people through offers worth sharing. Merchant tools and onboarding are not available yet.",
+    "restaurant-friends.png",
+    [
+      [
+        "Get discovered",
+        "Introduce your business to people looking for new experiences.",
+        null
+      ],
+      [
+        "Bring people together",
+        "Give friends a reason to visit and make a memory.",
+        null
+      ],
+      [
+        "Stay in the loop",
+        "Business participation details are still being developed.",
+        "contact.html"
+      ]
+    ]
+  ],
+  "about": [
+    "About CHOOP",
+    "More than coupons. A better way to connect.",
+    "CHOOP brings together savings, discovery, and social experiences. The goal is to make everyday outings more exciting, accessible, and memorable.",
+    "restaurant-friends.png",
+    [
+      [
+        "Discover",
+        "Find a new reason to explore your city.",
+        null
+      ],
+      [
+        "Share",
+        "Make plans and enjoy good moments together.",
+        null
+      ],
+      [
+        "Save",
+        "Make the most of the places you love.",
+        null
+      ]
+    ]
+  ],
+  "personalized": [
+    "Handpicked for you",
+    "Good finds, made for you.",
+    "Personalized discovery is part of the CHOOP concept. This feature is not available yet, but you can explore our example categories.",
+    "cafe-portrait.png",
+    [
+      [
+        "Food & dining",
+        "Find a new favorite bite.",
+        "dining.html"
+      ],
+      [
+        "Shopping & lifestyle",
+        "Discover a little everyday joy.",
+        "shopping.html"
+      ],
+      [
+        "Fun & experiences",
+        "Make a day of it.",
+        "experiences.html"
+      ]
+    ]
+  ],
+  "cafe-treat": [
+    "Illustrative offer · Dining",
+    "Cafe Treat.",
+    "20% off is an example of the kind of offer CHOOP might feature. It is not a live coupon and cannot be claimed or redeemed.",
+    "dining.png",
+    [
+      [
+        "Offer terms",
+        "Merchant, availability, expiry, and redemption conditions have not been defined.",
+        null
+      ],
+      [
+        "Explore dining",
+        "See the dining concept.",
+        "dining.html"
+      ]
+    ]
+  ],
+  "weekend-special": [
+    "Illustrative offer · Experiences",
+    "Weekend Special.",
+    "40% off is an example of the kind of offer CHOOP might feature. It is not a live coupon and cannot be claimed or redeemed.",
+    "cinema.png",
+    [
+      [
+        "Offer terms",
+        "Merchant, availability, expiry, and redemption conditions have not been defined.",
+        null
+      ],
+      [
+        "Explore experiences",
+        "See the experiences concept.",
+        "experiences.html"
+      ]
+    ]
+  ],
+  "style-deal": [
+    "Illustrative offer · Shopping",
+    "Style Deal.",
+    "30% off is an example of the kind of offer CHOOP might feature. It is not a live coupon and cannot be claimed or redeemed.",
+    "shopping.png",
+    [
+      [
+        "Offer terms",
+        "Merchant, availability, expiry, and redemption conditions have not been defined.",
+        null
+      ],
+      [
+        "Explore shopping",
+        "See the shopping concept.",
+        "shopping.html"
+      ]
+    ]
+  ],
+  "sign-in": [
+    "Sign in",
+    "Welcome back, someday.",
+    "Account sign-in is not connected in this concept preview. There is no account to access yet.",
+    "cafe-portrait.png",
+    [
+      [
+        "Discover CHOOP",
+        "Explore the idea and example categories.",
+        "explore.html"
+      ],
+      [
+        "How it works",
+        "Learn about the proposed experience.",
+        "how-it-works.html"
+      ]
+    ]
+  ],
+  "join": [
+    "Join CHOOP",
+    "Good things are better together.",
+    "CHOOP is a concept in development. Registration is not available yet, but you can explore the idea.",
+    "friends-cafe.png",
+    [
+      [
+        "Explore deals",
+        "See the kinds of experiences we envision.",
+        "explore.html"
+      ],
+      [
+        "How it works",
+        "Get to know the proposed journey.",
+        "how-it-works.html"
+      ]
+    ]
+  ],
+  "faq": [
+    "Frequently asked questions",
+    "Questions? We’ve got answers.",
+    "A little more about the CHOOP concept and where it stands today.",
+    "cafe-portrait.png",
+    [
+      [
+        "What is CHOOP?",
+        "A proposed social coupon platform for discovering, sharing, and redeeming offers.",
+        null
+      ],
+      [
+        "How do I claim or redeem a coupon?",
+        "The claiming and redemption experience is still being developed; the examples are not live.",
+        null
+      ],
+      [
+        "Can I share coupons with friends?",
+        "Sharing is central to the concept. The exact features are still being defined.",
+        null
+      ],
+      [
+        "Is CHOOP free to use?",
+        "The coupon business model has not yet been finalized.",
+        null
+      ]
+    ]
+  ],
+  "privacy": [
+    "Privacy policy",
+    "Privacy matters.",
+    "This is a concept prototype. A privacy policy will be provided when the service and its data practices are defined.",
+    "cafe-portrait.png",
+    []
+  ],
+  "terms": [
+    "Terms & conditions",
+    "The details, made clear.",
+    "This is a concept prototype. Terms will be provided when the service and its offers are established.",
+    "dining.png",
+    []
+  ],
+  "contact": [
+    "Contact",
+    "Let’s stay connected.",
+    "Contact details and business enquiries are not yet set up for this concept.",
+    "restaurant-friends.png",
+    [
+      [
+        "Explore CHOOP",
+        "See what the concept is all about.",
+        "about.html"
+      ]
+    ]
+  ]
+}
