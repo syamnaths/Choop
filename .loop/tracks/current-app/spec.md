@@ -130,3 +130,7 @@ Static routing and preview policy tests, existing catalog/auth/business/redempti
 ## Render setup handoff — 2026-11-14
 
 Verified Blueprint configuration, locked dependencies, production-mode build, preview-policy/static/catalog/route checks and Atlas contract. Added selective GitHub commands and clarified separate Atlas import credentials in the hosted preview guide. No repository, Render service, Atlas cluster or hosted verification was created; owner will perform setup. This remains read-only preview only, with the previously documented production blockers.
+
+## Local test accounts and Render configuration — 2026-11-14
+
+At the owner's request, created two local test consumer accounts and one test business via the application API; created three TEST-labeled local offers and saved one for the first test user. Account credentials were provided to the owner and are not recorded here. API confirmed creation, publication and one saved offer; temporary sessions were signed out. The test offers are local test data, not real merchant promotions, and should not be migrated to a public deployment. Render startup log reports MONGODB_URI is missing; owner needs to configure the Atlas secret in Render. The prepared Render deployment is read-only and these local accounts do not exist there.
